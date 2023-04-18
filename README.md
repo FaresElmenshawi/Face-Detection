@@ -3,8 +3,11 @@
 This repository contains code for real-time face mask detection using the YOLOv4 object detection model. The YOLOv4 model is fine-tuned on a dataset of annotated images of people wearing and not wearing masks. The model can detect faces as well as classify whether the person is wearing a mask or not.
 
 ## Requirements
+
 Python 3
+
 OpenCV
+
 Darknet (YOLOv4)
 
 ## Dataset
